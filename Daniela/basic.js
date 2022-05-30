@@ -79,3 +79,40 @@
 //     console.log("Average: " + average)
 // }
 // classes(1, 5, 3)
+
+// Advanced
+
+// function atmMachine(money) {
+
+//     var hundred = Math.floor(money / 100);
+//     var rest = money % 100;
+//     var fifty = Math.floor(rest / 50);
+//      rest = rest % 50;
+//     var twenty = Math.floor(rest / 20);
+//      rest = rest % 20;
+//     var ten = Math.floor(rest / 10);
+
+//     return `you have ${hundred} 100, ${fifty} 50, ${twenty} 20, ${ten} 10,`;
+
+
+
+// }
+// console.log(atmMachine(580));
+
+// // *******************************************************************************************************************************
+
+// Challenge
+
+// function time(minutes) {
+
+
+
+//     var hours = (minutes / 60);
+//     var rhours = Math.floor(hours);
+//     var rminutes = minutes % 60;
+
+//     return (minutes + " Minuten sind: " + rhours + " Stunden und " + rminutes + " Minuten.");
+
+// }
+
+// console.log(time(100))
