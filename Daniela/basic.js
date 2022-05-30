@@ -55,3 +55,16 @@
 // }
 
 // box(10, 5, 19)
+
+
+
+
+
+
+// Intermediate 1
+
+(() => {
+    let text = 'i am a web developer';
+    let result = text.charAt(0).toUpperCase();
+    console.log(result + text.slice(1));
+})();
