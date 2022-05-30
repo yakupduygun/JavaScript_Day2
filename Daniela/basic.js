@@ -47,11 +47,11 @@
 
 // Basic exercise 5
 
-function box(width, height, depth) {
-    area = width * height;
-    volume = width * height * depth;
-    console.log("The area of the box is: " + area)
-    console.log("The volume of the box is: " + volume)
-}
+// function box(width, height, depth) {
+//     area = width * height;
+//     volume = width * height * depth;
+//     console.log("The area of the box is: " + area)
+//     console.log("The volume of the box is: " + volume)
+// }
 
-box(10, 5, 19)
+// box(10, 5, 19)
