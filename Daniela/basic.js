@@ -63,8 +63,19 @@
 
 // Intermediate 1
 
-(() => {
-    let text = 'i am a web developer';
-    let result = text.charAt(0).toUpperCase();
-    console.log(result + text.slice(1));
-})();
+// (() => {
+//     let text = 'i am a web developer';
+//     let result = text.charAt(0).toUpperCase();
+//     console.log(result + text.slice(1));
+// })();
+
+
+// Intermediate 2
+
+// function classes(Math, Physics, English) {
+//     let sum = Math + Physics + English;
+//     let average = (Math + Physics + English) / 3;
+//     console.log("Sum: " + sum)
+//     console.log("Average: " + average)
+// }
+// classes(1, 5, 3)
